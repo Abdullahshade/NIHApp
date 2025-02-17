@@ -4,7 +4,7 @@ Index,Image_Name,Pneumothorax_Type,Pneumothorax_Size,Affected_Side,Label_Flag,Dr
 2,00000013_013.png,Simple,Small,Right,,False,Pneumothorax,38.0,13.0,60.0,M,AP,3056.0,2544.0,0.139,0.139
 3,00000071_001.png,Tension,Large,Left,,False,Pneumothorax,,71.0,69.0,F,AP,2500.0,2048.0,0.168,0.168
 4,00000116_012.png,Simple,Small,Right,,False,Pneumothorax,12.0,116.0,74.0,F,AP,2500.0,2048.0,0.168,0.168
-5,00000118_009.png,Tension,Large,Left,1.0,False,Pneumothorax,9.0,118.0,73.0,M,AP,3056.0,2544.0,0.139,0.139
+5,00000118_009.png,Tension,Large,Left,,False,Pneumothorax,9.0,118.0,73.0,M,AP,3056.0,2544.0,0.139,0.139
 6,00000231_003.png,,,,,,Pneumothorax,3.0,231.0,56.0,F,AP,3056.0,2544.0,0.139,0.139
 7,00000261_004.png,,,,,,Pneumothorax,4.0,261.0,39.0,F,AP,2500.0,2048.0,0.168,0.168
 8,00000275_003.png,,,,,,Pneumothorax,4.0,275.0,60.0,F,AP,3056.0,2544.0,0.139,0.139
