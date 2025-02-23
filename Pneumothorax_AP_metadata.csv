@@ -210,7 +210,7 @@ Index,Image_Name,Finding Labels,Pneumothorax_Type,Pneumothorax_Size,Affected_Sid
 210,00008770_001.png,Pneumothorax,Simple,Large,Left,1.0,True,1,8770,48,F,AP,2500,2048,0.168,0.168
 211,00008814_005.png,Pneumothorax,,,,0.0,,1,8814,30,M,AP,2500,2048,0.168,0.168
 212,00008814_006.png,Pneumothorax,,,,0.0,,2,8814,30,M,AP,2500,2048,0.168,0.168
-213,00008841_034.png,Pneumothorax,,,,0.0,,29,8841,50,F,AP,2048,2500,0.168,0.168
+213,00008841_034.png,Pneumothorax,Simple,Large,Left,1.0,True,29,8841,50,F,AP,2048,2500,0.168,0.168
 214,00009166_003.png,Pneumothorax,,,,0.0,,3,9166,58,F,AP,2500,2048,0.168,0.168
 215,00009206_001.png,Pneumothorax,,,,0.0,,1,9206,69,M,AP,2500,2048,0.168,0.168
 216,00009218_012.png,Pneumothorax,,,,0.0,,12,9218,39,M,AP,2500,2048,0.168,0.168
