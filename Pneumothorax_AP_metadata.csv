@@ -451,7 +451,7 @@ Index,Image_Name,Finding Labels,Pneumothorax_Type,Pneumothorax_Size,Affected_Sid
 453,00018865_005.png,Pneumothorax,Tension,Large,Right,1.0,True,1,18865,69,F,AP,3056,2544,0.139,0.139
 454,00018921_002.png,Pneumothorax,Tension,Large,Right,1.0,True,0,18921,42,F,AP,2500,2048,0.168,0.168
 455,00018921_003.png,Pneumothorax,Tension,Large,Right,1.0,True,1,18921,42,F,AP,2500,2048,0.168,0.168
-456,00018921_004.png,Pneumothorax,,,,0.0,,2,18921,42,F,AP,2500,2048,0.168,0.168
+456,00018921_004.png,Pneumothorax,Tension,Large,Right,1.0,False,2,18921,42,F,AP,2500,2048,0.168,0.168
 457,00018921_014.png,Pneumothorax,,,,0.0,,12,18921,42,F,AP,2500,2048,0.168,0.168
 458,00018921_020.png,Pneumothorax,,,,0.0,,18,18921,42,F,AP,2500,2048,0.168,0.168
 459,00018921_035.png,Pneumothorax,,,,0.0,,33,18921,42,F,AP,2500,2048,0.168,0.168
