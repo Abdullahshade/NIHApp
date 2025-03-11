@@ -467,7 +467,7 @@ Index,Image_Name,Finding Labels,Pneumothorax_Type,Pneumothorax_Size,Affected_Sid
 469,00019730_000.png,Pneumothorax,Simple,Small,Left,1.0,True,0,19730,31,F,AP,2500,2048,0.168,0.168
 470,00019730_001.png,Pneumothorax,Simple,Small,Left,1.0,True,1,19730,31,F,AP,2500,2048,0.168,0.168
 471,00019730_002.png,Pneumothorax,Simple,Small,Left,1.0,True,2,19730,31,F,AP,2500,2048,0.168,0.168
-472,00019773_006.png,Pneumothorax,,,,0.0,,7,19773,69,M,AP,3056,2544,0.139,0.139
+472,00019773_006.png,Pneumothorax,Simple,Small,Left,1.0,True,7,19773,69,M,AP,3056,2544,0.139,0.139
 473,00019871_000.png,Pneumothorax,,,,0.0,,0,19871,76,M,AP,2500,2048,0.168,0.168
 474,00019894_000.png,Pneumothorax,,,,0.0,,0,19894,61,M,AP,2500,2048,0.168,0.168
 475,00020213_025.png,Pneumothorax,,,,0.0,,24,20213,72,F,AP,3056,2544,0.139,0.139
