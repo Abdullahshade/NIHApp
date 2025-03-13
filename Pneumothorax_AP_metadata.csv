@@ -39,7 +39,7 @@ Index,Image_Name,Finding Labels,Pneumothorax_Type,Pneumothorax_Size,Affected_Sid
 37,00001194_000.png,Pneumothorax,Tension,Large,Left,1.0,True,0,1194,38,M,AP,2500,2048,0.168,0.168
 38,00001286_005.png,Pneumothorax,Simple,Small,Right,1.0,False,5,1286,26,M,AP,2500,2048,0.168,0.168
 39,00001376_008.png,Pneumothorax,Simple,Large,Right,1.0,False,8,1376,49,M,AP,2500,2048,0.168,0.168
-40,00001397_012.png,Pneumothorax,Simple,Large,Right,1.0,False,12,1397,59,M,AP,2500,2048,0.168,0.168
+40,00001397_012.png,Pneumothorax,Simple,Large,Left,1.0,False,12,1397,59,M,AP,2500,2048,0.168,0.168
 41,00001429_002.png,Pneumothorax,Simple,Large,Left,1.0,False,2,1429,59,F,AP,2500,2048,0.168,0.168
 42,00001437_022.png,Pneumothorax,Simple,Large,Left,1.0,True,22,1437,30,F,AP,3056,2544,0.139,0.139
 43,00001484_000.png,Pneumothorax,Simple,Large,Right,1.0,False,0,1484,62,F,AP,3056,2544,0.139,0.139
@@ -388,7 +388,7 @@ Index,Image_Name,Finding Labels,Pneumothorax_Type,Pneumothorax_Size,Affected_Sid
 390,00016051_002.png,Pneumothorax,Tension,Large,Left,1.0,False,2,16051,29,F,AP,2500,2048,0.168,0.168
 391,00016051_003.png,Pneumothorax,Tension,Large,Left,1.0,False,3,16051,29,F,AP,2500,2048,0.168,0.168
 392,00016051_013.png,Pneumothorax,Tension,Large,Left,1.0,False,13,16051,30,F,AP,2500,2048,0.168,0.168
-393,00016109_002.png,Pneumothorax,Simple,Large,Right,1.0,False,2,16109,49,F,AP,2500,2048,0.168,0.168
+393,00016109_002.png,Pneumothorax,Simple,Large,Left,1.0,False,2,16109,49,F,AP,2500,2048,0.168,0.168
 394,00016249_002.png,Pneumothorax,Simple,Small,Left,1.0,False,2,16249,50,M,AP,2500,2048,0.168,0.168
 395,00016410_038.png,Pneumothorax,Simple,Small,Right,1.0,False,37,16410,42,F,AP,2500,2048,0.168,0.168
 396,00016429_040.png,Pneumothorax,Tension,Large,Right,1.0,False,32,16429,47,F,AP,2500,2048,0.168,0.168
