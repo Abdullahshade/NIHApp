@@ -1,7 +1,7 @@
 Index,Image_Name,Finding Labels,Pneumothorax_Type,Pneumothorax_Size,Affected_Side,Label_Flag,Drop,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y]
-0,00000013_011.png,Pneumothorax,Simple,Small,Right,1.0,False,36,13,60,M,AP,3056,2544,0.139,0.139
-1,00000013_012.png,Pneumothorax,Simple,Small,Right,1.0,False,37,13,60,M,AP,3056,2544,0.139,0.139
-2,00000013_013.png,Pneumothorax,Simple,Small,Right,1.0,False,38,13,60,M,AP,3056,2544,0.139,0.139
+0,00000013_011.png,Pneumothorax,Simple,Small,Right,,False,36,13,60,M,AP,3056,2544,0.139,0.139
+1,00000013_012.png,Pneumothorax,Simple,Small,Right,,False,37,13,60,M,AP,3056,2544,0.139,0.139
+2,00000013_013.png,Pneumothorax,Simple,Small,Right,,False,38,13,60,M,AP,3056,2544,0.139,0.139
 3,00000071_001.png,Pneumothorax,Simple,Large,Right,1.0,False,1,71,69,F,AP,2500,2048,0.168,0.168
 4,00000116_012.png,Pneumothorax,Simple,Large,Right,1.0,True,12,116,74,F,AP,2500,2048,0.168,0.168
 5,00000118_009.png,Pneumothorax,Simple,Large,Right,1.0,True,9,118,73,M,AP,3056,2544,0.139,0.139
